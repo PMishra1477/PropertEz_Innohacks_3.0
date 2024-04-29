@@ -3,10 +3,9 @@
 
 This is the Readme file where we are giving the references of other Readme files you can visit separately.
 
-[PropertEz Readme](https://github.com/user/repo/blob/branch/other_file.md)
+PropertEz Readme : https://github.com/PMishra1477/PropertEz_Innohacks_3.0/blob/main/PropertEz/PropertEz_README.md
 
-[BreathEz Readme](https://github.com/user/repo/blob/branch/other_file.md)
-
+BreathEz Readme: https://github.com/PMishra1477/PropertEz_Innohacks_3.0/blob/main/BreathEz/BreathEz_README.md
 
 
 
