@@ -1,9 +1,6 @@
 
 # PropertEz_Innohacks_3.0
 
-This is the Readme file where we are giving the references of other Readme files you can visit separately.
-
-PropertEz Readme : 
 
 # PropertEz
 
@@ -50,7 +47,8 @@ The frontend of the website is designed with React JS and our app is designed us
 
 ![Img6](https://res.cloudinary.com/dtasq49nr/image/upload/v1714368563/123456_iwwz6f.png)
 
-BreathEz Readme:
+
+
 
 # BreathEz
 
